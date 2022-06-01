@@ -1,0 +1,21 @@
+{
+  "name": "playwrightframework",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test.watch": "jest --watchAll"
+  },
+
+  
+  "homepage": "https://github.com/IHkeverkamp/trainingPlaywright#readme",
+  "devDependencies": {
+    "@playwright": "^1.22.2",
+    "jest": "^27.5.1",
+    "jest-playwright-preset": "^1.7.2",
+    "playwright": "^1.22.2",
+    "playwright-expect": "^0.1.2"
+  }
+}
+
